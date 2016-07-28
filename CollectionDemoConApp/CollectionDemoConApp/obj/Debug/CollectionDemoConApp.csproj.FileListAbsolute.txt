@@ -1,0 +1,6 @@
+C:\Users\wht\Desktop\VS_Projects\CollectionDemoConApp\CollectionDemoConApp\bin\Debug\CollectionDemoConApp.exe.config
+C:\Users\wht\Desktop\VS_Projects\CollectionDemoConApp\CollectionDemoConApp\obj\Debug\CollectionDemoConApp.csprojResolveAssemblyReference.cache
+C:\Users\wht\Desktop\VS_Projects\CollectionDemoConApp\CollectionDemoConApp\bin\Debug\CollectionDemoConApp.exe
+C:\Users\wht\Desktop\VS_Projects\CollectionDemoConApp\CollectionDemoConApp\bin\Debug\CollectionDemoConApp.pdb
+C:\Users\wht\Desktop\VS_Projects\CollectionDemoConApp\CollectionDemoConApp\obj\Debug\CollectionDemoConApp.exe
+C:\Users\wht\Desktop\VS_Projects\CollectionDemoConApp\CollectionDemoConApp\obj\Debug\CollectionDemoConApp.pdb

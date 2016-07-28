@@ -1,0 +1,6 @@
+C:\Users\wht\Desktop\VS_Projects\PersonDetails\PersonDetails\bin\Debug\PersonDetails.exe.config
+C:\Users\wht\Desktop\VS_Projects\PersonDetails\PersonDetails\bin\Debug\PersonDetails.exe
+C:\Users\wht\Desktop\VS_Projects\PersonDetails\PersonDetails\bin\Debug\PersonDetails.pdb
+C:\Users\wht\Desktop\VS_Projects\PersonDetails\PersonDetails\obj\Debug\PersonDetails.csprojResolveAssemblyReference.cache
+C:\Users\wht\Desktop\VS_Projects\PersonDetails\PersonDetails\obj\Debug\PersonDetails.exe
+C:\Users\wht\Desktop\VS_Projects\PersonDetails\PersonDetails\obj\Debug\PersonDetails.pdb
