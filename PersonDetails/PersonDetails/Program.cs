@@ -76,7 +76,7 @@ namespace PersonDetails
             Console.WriteLine();
 
             // Add new list to existing list
-            List<PersonDetails> newList = pdList;
+            List<PersonDetails> newList = new List<PersonDetails>(pdList);
             newList.AddRange(pdList);
             Console.WriteLine("List after added new list to existing list:");
             foreach (PersonDetails pd in newList)
@@ -86,9 +86,16 @@ namespace PersonDetails
             Console.WriteLine();
 
             // Remove male from list
-            List<PersonDetails> removeMale = pdList.Where(p => p.Gender == "female").ToList();
             Console.WriteLine("List after remove male employee:");
-            foreach (PersonDetails pd in removeMale)
+            for(int i = 0; i < pdList.Count; i++)
+            {
+                if (pdList[i].Gender == "male")
+                {
+                    pdList.RemoveAt(i);
+                }
+            }
+
+            foreach (PersonDetails pd in pdList)
             {
                 Console.WriteLine("{0},{1},{2}", pd.Age, pd.FirstName, pd.Gender);
             }
