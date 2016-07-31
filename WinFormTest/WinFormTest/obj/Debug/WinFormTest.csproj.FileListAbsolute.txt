@@ -1,0 +1,9 @@
+C:\Users\wht\Desktop\VS_Projects\WinFormTest\WinFormTest\bin\Debug\WinFormTest.exe.config
+C:\Users\wht\Desktop\VS_Projects\WinFormTest\WinFormTest\bin\Debug\WinFormTest.exe
+C:\Users\wht\Desktop\VS_Projects\WinFormTest\WinFormTest\bin\Debug\WinFormTest.pdb
+C:\Users\wht\Desktop\VS_Projects\WinFormTest\WinFormTest\obj\Debug\WinFormTest.csprojResolveAssemblyReference.cache
+C:\Users\wht\Desktop\VS_Projects\WinFormTest\WinFormTest\obj\Debug\WinFormTest.Form1.resources
+C:\Users\wht\Desktop\VS_Projects\WinFormTest\WinFormTest\obj\Debug\WinFormTest.Properties.Resources.resources
+C:\Users\wht\Desktop\VS_Projects\WinFormTest\WinFormTest\obj\Debug\WinFormTest.csproj.GenerateResource.Cache
+C:\Users\wht\Desktop\VS_Projects\WinFormTest\WinFormTest\obj\Debug\WinFormTest.exe
+C:\Users\wht\Desktop\VS_Projects\WinFormTest\WinFormTest\obj\Debug\WinFormTest.pdb
